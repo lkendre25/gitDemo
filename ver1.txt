@@ -1,1 +1,2 @@
-This is the PHP version 1 2020
+git config --global user.name 'This is the user name'
+git config --global user.email 'lk@gmail.com'
