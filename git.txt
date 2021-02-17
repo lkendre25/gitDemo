@@ -1,0 +1,62 @@
+1] What is git? git commands?
+2] what is opencard youtub.
+3] Complete open card documentation reading.
+4] Study to open card videos on youtub.
+5] 
+
+...............................
+
+assingment:
+TAsk 1 ]
+1] change default ui with free (idin)
+2]
+8 days
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+................
+links
+
+
+
+github
+https://github.com/opencart/opencart
+
+Open card documentation
+http://docs.opencart.com/en-gb/developer/module/
+Youtub
+https://www.youtube.com/c/OnlineGyanNepal/playlists
+
+Open cart
+https://www.opencart.com/index.php?route=marketplace/extension&filter_license=0&filter_category_id=1
+excelsheet
+
+https://docs.google.com/spreadsheets/d/1F48myK31k24MD7AgX66J52kcU8RbVmtez-wlrw3fN0k/edit?ts=602b084c#gid=1386834576
+
+Prashant Pukale4:57 AM
+https://github.com/opencart/opencart
+http://docs.opencart.com/en-gb/developer/module/
+https://www.youtube.com/watch?v=kCDqw7kcqLQ&list=PLJrQQAOTh1X_QDKxUsfmIuteb-VXkBDNe&index=2
+Prashant Pukale5:05 AM
+https://www.opencart.com/index.php?route=marketplace/extension&filter_member=cartbinder
+Prashant Pukale5:09 AM
+https://www.opencart.com/index.php?route=marketplace/extension&filter_category_id=1
